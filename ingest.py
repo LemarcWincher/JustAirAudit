@@ -4,7 +4,7 @@
 # DATE: April 4, 2026 | San Marcos, TX
 # -----------------------------------------------------------------
 # DESCRIPTION: Core logic for Local Vector Database (ChromaDB) ingestion 
-of PCI-DSS v4.0.1.
+# of PCI-DSS v4.0.1.
 # -----------------------------------------------------------------
 # LICENSE: PROPRIETARY & CONFIDENTIAL. All Rights Reserved.
 # This code is the sole intellectual property of Lemarc Wincher.
