@@ -1,4 +1,4 @@
-⚠️ NOTE: This repository is a Source-Available showcase. The core audit logic is encrypted for IP protection. To use the functional tool, please download the compiled GUI from justairaudit.com.
+⚠️ NOTE: This repository is a Source-Available showcase. The core audit logic is encrypted for IP protection. To use the functional tool, please download the compiled GUI from https://www.justairaudit.com.
 
 🛡️ JustAirAudit v1.1 — Sovereign PCI Compliance Engine
 Version: 1.1.0-FINAL
