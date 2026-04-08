@@ -1,0 +1,18 @@
+Copyright (c) 2026 Lemarc Wincher
+All rights reserved.
+
+This software is proprietary. You may use it for personal purposes only, free of charge. 
+Modification, redistribution, or commercial use is strictly prohibited 
+without explicit permission from the author.
+
+Businesses or organizations wishing to use this software must obtain a 
+license from Lemarc Wincher prior to use. Contact the author for terms 
+and permission.
+
+JustAirAudit™ is a trademark of Lemarc Wincher. 
+Use of the program name, logo, or branding without permission is prohibited.
+
+By using this software, you agree to these terms.
+
+Email: lemwincher@gmail.com
+LinkedIn: https://www.linkedin.com/in/lemarc-wincher/

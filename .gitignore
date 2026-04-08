@@ -1,0 +1,36 @@
+# --- SECRETS & KEYS ---
+.env
+*.pem
+*.key
+vault_key.txt
+
+# --- PROPRIETARY PROMPTS---
+/prompts/*.txt
+!/prompts/README.md
+!/prompts/sample_prompt.txt
+
+# --- PYTHON SYSTEM FILES ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# --- LOCAL DATA & DATABASE ---
+/pci_vault/*
+!/pci_vault/README.md
+/db/
+*.log
+*.sqlite
+
+# --- OPERATING SYSTEM TRASH ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- BUILD FILES ---
+/build/
+/dist/
+*.spec
