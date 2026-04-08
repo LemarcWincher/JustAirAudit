@@ -1,10 +1,3 @@
-import os
-from dotenv import load_dotenv
-
-load_dotenv() 
-
-from prompts.secret_prompts import get_prompt
-
 # =================================================================
 # MODULE: JustAirAudit Sovereign Engine (v1.1)
 # AUTHOR: Lemarc Wincher
@@ -17,6 +10,13 @@ from prompts.secret_prompts import get_prompt
 # This code is the sole intellectual property of Lemarc Wincher.
 # Unauthorized reproduction or distribution is strictly prohibited.
 # =================================================================
+
+import os
+from dotenv import load_dotenv
+
+load_dotenv() 
+
+from prompts.secret_prompts import get_prompt
 
 import re
 import chromadb
