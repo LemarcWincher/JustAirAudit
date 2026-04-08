@@ -59,6 +59,8 @@ Personal Use: This software is proprietary. You may review the code for educatio
 
 Commercial/Corporate Use: Modification, redistribution, or commercial use is strictly prohibited without explicit permission. Businesses or organizations wishing to deploy JustAirAudit must obtain a commercial license from the author prior to use.
 
+DISTRIBUTION: Source-available for architectural review. Execution locked; users directed to justairaudit.com for functional GUI version.
+
 Trademarks: JustAirAudit™ is a trademark of Lemarc Wincher.
 
 For licensing inquiries or professional demonstrations, please contact:
