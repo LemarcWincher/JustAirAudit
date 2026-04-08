@@ -7,7 +7,7 @@ Author: Lemarc Wincher
 
 Release Date: April 6th, 2026
 
-Website: justairaudit.com
+Website: https://www.justairaudit.com
 
 🔒 Security & Zero-Trust Architecture
 JustAirAudit is a sovereign, air-gapped compliance tool designed for high-security environments where data egress is a critical risk.
