@@ -1,8 +1,14 @@
 # =================================================================
-# APPLICATION: JustAirAudit - Air-Gapped PCI Compliance Tool
-# VERSION: 1.1.0-FINAL
-# RELEASE DATE: April 5, 2026
+# MODULE: JustAirAudit Sovereign Engine (v1.1)
 # AUTHOR: Lemarc Wincher
+# DATE: April 4, 2026 | San Marcos, TX
+# -----------------------------------------------------------------
+# DESCRIPTION: GUI for Core logic for PII/Secret Redaction and 
+# Local Vector Database (ChromaDB) PCI-DSS v4.0.1 Querying.
+# -----------------------------------------------------------------
+# LICENSE: PROPRIETARY & CONFIDENTIAL. All Rights Reserved.
+# This code is the sole intellectual property of Lemarc Wincher.
+# Unauthorized reproduction or distribution is strictly prohibited.
 # =================================================================
 
 import os
