@@ -63,14 +63,14 @@ class JustAirApp(ctk.CTk):
         except Exception as e:
             print(f"Taskbar icon load failed: {e}")
 
-        # --- Sidebar Logo (Fixed size, no stretch) ---
+        # --- Sidebar Logo ---
         try:
             if os.path.exists(logo_path):
                 img = Image.open(logo_path)
                 self.logo_img = ctk.CTkImage(
                     light_image=img,
                     dark_image=img,
-                    size=(250, 250)  # fixed size
+                    size=(250, 250)  
                 )
                 self.logo_image_label = ctk.CTkLabel(self.sidebar, image=self.logo_img, text="")
                 self.logo_image_label.pack(pady=(20, 15))
